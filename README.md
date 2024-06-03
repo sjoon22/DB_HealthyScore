@@ -12,9 +12,9 @@
 
 대한 당뇨병 학회의 조사 결과에 따르면, 30세 이상 인구 중 16.7%가 당뇨병을 앓고 있으며, 이들은 대부분 고혈압과 같은 만성 질환을 함께 앓고 있다. 하지만, 당뇨병과 고혈압이 신체에 즉각적인 이상 증상을 유발하는 질환은 아니기에 대부분의 사람들은 심각성을 인지하지 못한다. 또한 건강검진을 통해 놓치는 당뇨병 환자가 200만명에 이르니, 건강검진을 통한 질환 진단에도 큰 허점이 있는 것이다. 하지만 이러한 질환들은 일주일에 3일 이상, 30분의 중강도 걷기를 지속하면 발병 확률이 크게 감소한다. 따라서, 본 연구를 통해 만성 질환의 발병 확률 감소에 조금이나마 도움이 되고자 한다.<br/><br/>
 
-![image](https://github.com/sjoon22/DB_HealthyScore/assets/160305407/450fc658-8d4a-49b1-a15c-15bbbb37a642)
-![image](https://github.com/sjoon22/DB_HealthyScore/assets/160305407/3a412a44-a8ee-45e6-bb54-4c26419e26cb)
-![image](https://github.com/sjoon22/DB_HealthyScore/assets/160305407/e8e7d955-0d30-4468-b8a9-5822d104a01b)
+![image](https://github.com/sjoon22/DB_HealthyScore/assets/160305407/450fc658-8d4a-49b1-a15c-15bbbb37a642) <br/>
+![image](https://github.com/sjoon22/DB_HealthyScore/assets/160305407/3a412a44-a8ee-45e6-bb54-4c26419e26cb) <br/>
+![image](https://github.com/sjoon22/DB_HealthyScore/assets/160305407/e8e7d955-0d30-4468-b8a9-5822d104a01b) 
 
 
 ### 👨‍💻 팀원
